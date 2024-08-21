@@ -13,6 +13,7 @@ I'll upload my solutions for Leetcode problems in this repo
 |  |
 | ------- |
 | [0015-3sum](https://github.com/khizar457/LeetCode-Solution/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/khizar457/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sorting
 |  |
 | ------- |
@@ -33,4 +34,8 @@ I'll upload my solutions for Leetcode problems in this repo
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/khizar457/LeetCode-Solution/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/khizar457/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

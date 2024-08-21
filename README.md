@@ -7,6 +7,7 @@ I'll upload my solutions for Leetcode problems in this repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khizar457/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/khizar457/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/khizar457/LeetCode-Solution/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
@@ -20,4 +21,12 @@ I'll upload my solutions for Leetcode problems in this repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khizar457/LeetCode-Solution/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khizar457/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khizar457/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

@@ -29,4 +29,8 @@ I'll upload my solutions for Leetcode problems in this repo
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/khizar457/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/khizar457/LeetCode-Solution/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

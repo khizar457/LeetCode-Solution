@@ -9,6 +9,7 @@ I'll upload my solutions for Leetcode problems in this repo
 | [0001-two-sum](https://github.com/khizar457/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/khizar457/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/khizar457/LeetCode-Solution/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/khizar457/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ I'll upload my solutions for Leetcode problems in this repo
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/khizar457/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/khizar457/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |

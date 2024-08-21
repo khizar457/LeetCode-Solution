@@ -1,5 +1,5 @@
 # LeetCode-Solution
-I'll upload my solutions for Leetcode problems in this repo
+I'll upload my solutions for Leetcode problems in this repo using LeetHub Extension.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

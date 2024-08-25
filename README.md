@@ -57,4 +57,20 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/khizar925/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0053-maximum-subarray](https://github.com/khizar457/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/khizar925/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khizar925/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/khizar925/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khizar457/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/khizar925/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/khizar925/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/khizar925/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +38,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0033-search-in-rotated-sorted-array](https://github.com/khizar457/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/khizar925/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khizar925/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/khizar925/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |

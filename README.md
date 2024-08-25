@@ -54,10 +54,12 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khizar457/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/khizar457/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/khizar925/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/khizar925/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/khizar457/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/khizar925/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |

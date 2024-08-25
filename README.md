@@ -62,11 +62,13 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | ------- |
 | [0100-same-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -77,4 +79,5 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | ------- |
 | [0100-same-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->

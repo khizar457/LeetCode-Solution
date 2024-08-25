@@ -17,6 +17,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | ------- |
 | [0015-3sum](https://github.com/khizar457/LeetCode-Solution/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khizar457/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/khizar925/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -80,4 +81,8 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0100-same-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/khizar925/LeetCode-Solution/tree/master/0110-balanced-binary-tree) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/khizar925/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

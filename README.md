@@ -30,12 +30,14 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0015-3sum](https://github.com/khizar457/LeetCode-Solution/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/khizar925/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/khizar925/LeetCode-Solution/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khizar457/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/khizar925/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/khizar925/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/khizar925/LeetCode-Solution/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +107,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/khizar925/LeetCode-Solution/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/khizar925/LeetCode-Solution/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

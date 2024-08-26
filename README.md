@@ -124,4 +124,5 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0584-find-customer-referee](https://github.com/khizar925/LeetCode-Solution/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/khizar925/LeetCode-Solution/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/khizar925/LeetCode-Solution/tree/master/1153-product-sales-analysis-i) |
+| [1258-article-views-i](https://github.com/khizar925/LeetCode-Solution/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->

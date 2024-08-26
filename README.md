@@ -19,6 +19,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0792-binary-search](https://github.com/khizar925/LeetCode-Solution/tree/master/0792-binary-search) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/khizar925/LeetCode-Solution/tree/master/1635-number-of-good-pairs) |
+| [3321-type-of-triangle](https://github.com/khizar925/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0217-contains-duplicate](https://github.com/khizar925/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khizar925/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3321-type-of-triangle](https://github.com/khizar925/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +65,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | ------- |
 | [0009-palindrome-number](https://github.com/khizar457/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [1635-number-of-good-pairs](https://github.com/khizar925/LeetCode-Solution/tree/master/1635-number-of-good-pairs) |
+| [3321-type-of-triangle](https://github.com/khizar925/LeetCode-Solution/tree/master/3321-type-of-triangle) |
 ## Linked List
 |  |
 | ------- |

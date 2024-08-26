@@ -116,4 +116,8 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/khizar925/LeetCode-Solution/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->

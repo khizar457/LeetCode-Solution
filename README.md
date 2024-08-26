@@ -17,6 +17,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0215-kth-largest-element-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/khizar925/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/khizar925/LeetCode-Solution/tree/master/0792-binary-search) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0215-kth-largest-element-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/khizar925/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khizar925/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |

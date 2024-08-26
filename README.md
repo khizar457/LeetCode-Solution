@@ -16,6 +16,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khizar925/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/khizar925/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/khizar925/LeetCode-Solution/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0074-search-a-2d-matrix](https://github.com/khizar925/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khizar925/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khizar925/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/khizar925/LeetCode-Solution/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |

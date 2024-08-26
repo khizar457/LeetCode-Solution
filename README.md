@@ -18,6 +18,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0217-contains-duplicate](https://github.com/khizar925/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/khizar925/LeetCode-Solution/tree/master/0792-binary-search) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/khizar925/LeetCode-Solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/khizar925/LeetCode-Solution/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [0141-linked-list-cycle](https://github.com/khizar925/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/khizar925/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khizar925/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [1635-number-of-good-pairs](https://github.com/khizar925/LeetCode-Solution/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/khizar457/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [1635-number-of-good-pairs](https://github.com/khizar925/LeetCode-Solution/tree/master/1635-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -129,4 +132,8 @@ I'll upload my solutions for Leetcode problems in this repo using LeetHub Extens
 | [1153-product-sales-analysis-i](https://github.com/khizar925/LeetCode-Solution/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/khizar925/LeetCode-Solution/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/khizar925/LeetCode-Solution/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/khizar925/LeetCode-Solution/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
